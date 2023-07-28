@@ -1,0 +1,124 @@
+{
+    "users": [
+      {
+        "username": "suraj3",
+        "password": "kumar123",
+        "name": "suraj kumar",
+        "email": "suraj123@gmail.com",
+        "mobileNo": "2354984894",
+        "address": "Hyderabad",
+        "gender": "male",
+        "status": "active",
+        "id": 8,
+        "country": "india"
+      },
+      {
+        "username": "suma1",
+        "password": "suma@132",
+        "name": "suma latha",
+        "email": "sumalatha@gmail.com",
+        "mobileNo": "057988534",
+        "address": "washington dc",
+        "status": "active",
+        "gender": "female",
+        "id": 10,
+        "country": "usa"
+      },
+      {
+        "username": "Sandeep",
+        "password": "sandeep123",
+        "name": "Sandeep Goud",
+        "email": "sandy45@gmail.com",
+        "mobileNo": "1345166217",
+        "address": "Bengaluru",
+        "status": "inactive",
+        "gender": "male",
+        "id": 13,
+        "country": "india"
+      },
+      {
+        "username": "Akhil19",
+        "password": "akhil123",
+        "name": "akhil sai",
+        "email": "akhil@gmail.com",
+        "mobileNo": "2446561251",
+        "address": "Hyderabad",
+        "gender": "male",
+        "id": 19,
+        "status": "active",
+        "country": "india"
+      },
+      {
+        "username": "shravani34",
+        "password": "shravani1234",
+        "name": "shravani reddy",
+        "email": "shrava@gmail.com",
+        "mobileNo": "3518974685",
+        "country": "usa",
+        "address": "Las vegas",
+        "status": "active",
+        "gender": "female",
+        "id": 20
+      },
+      {
+        "username": "kunal56",
+        "password": "kunal123",
+        "name": "kunal suryavanshi",
+        "email": "kunals@gmail.com",
+        "mobileNo": "396841651",
+        "address": "goa",
+        "status": "inactive",
+        "gender": "male",
+        "country": "india",
+        "id": 22
+      },
+      {
+        "username": "prashanth",
+        "password": "prashanth123",
+        "name": "Singathi Prashanth",
+        "email": "prashanth13@gmail.com",
+        "mobileNo": "31298415",
+        "country": "usa",
+        "address": "Washington Dc",
+        "status": "active",
+        "gender": "female",
+        "id": 23
+      },
+      {
+        "username": "saitej88",
+        "password": "sai1234",
+        "name": "T sai teja",
+        "email": "sai5@gmail.com",
+        "mobileNo": "351964861",
+        "country": "india",
+        "address": "mumbai",
+        "status": "active",
+        "gender": "male",
+        "id": 24
+      },
+      {
+        "username": "mazhar",
+        "password": "mazhar345",
+        "name": "Md mazhar",
+        "email": "mazhar43@gmail.com",
+        "mobileNo": "312654698",
+        "country": "usa",
+        "address": "dallas",
+        "status": "active",
+        "gender": "male",
+        "id": 25
+      },
+      {
+        "username": "trupa",
+        "password": "rupa123",
+        "name": "thamsittey rupa",
+        "email": "rupa@gmail.com",
+        "mobileNo": "126516623",
+        "country": "india",
+        "address": "chennai",
+        "status": "active",
+        "gender": "female",
+        "id": 17
+      }
+    ]
+  }
